@@ -1,8 +1,0 @@
----
-layout: post
-title: V587
----
-
-h1. {{ page.title }}
-
-p(meta). 2013.5.23
